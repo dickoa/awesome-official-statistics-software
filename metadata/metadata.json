@@ -132,10 +132,12 @@
     "description": "An application for searching Urls via Google. Can be used to find websites of enterprise. By ISTAT.",
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "Java application",
@@ -144,10 +146,12 @@
     "description": "Gives a rule based score to scraped documents in a Solr database. By ISTAT.",
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "Node.js",
@@ -156,10 +160,12 @@
     "description": "A tool for checking (price) changes on the web. By Statistics Netherlands.",
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "JavaScript"
+    ]
   },
   {
     "type": "Python",
@@ -168,10 +174,12 @@
     "description": "A script for detecting social media presence on enterprises websites. By the ESSnet project on Big Data.",
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3.0",
+    "licenseSimple": "GPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Jupyter Notebook"
+    ]
   },
   {
     "type": "Python",
@@ -180,10 +188,12 @@
     "description": "A script for measuring sustainability reporting from enterprises websites. By ONS.",
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "Python",
@@ -192,10 +202,12 @@
     "description": "Software for finding websites of enterprises using a search engine and machine learning. By [Statistics Netherlands](https:www.cbs.nl).",
     "gsbpm_name": "Scraping for Statistics",
     "gsbpm_number": "4.3",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "R package",
@@ -260,10 +272,12 @@
     "description": "Java engine for the Validation and Transformation Language (VTL). By INSEE.",
     "gsbpm_name": "Process",
     "gsbpm_number": "5",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "Java application",
@@ -272,10 +286,12 @@
     "description": "A partial implementation of the Validation Transformation Language, based on the VTL 1.1 draft specification. By Statistics Norway.",
     "gsbpm_name": "Process",
     "gsbpm_number": "5",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "Apache-2.0",
+    "licenseSimple": "Apache",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "R package",
@@ -763,7 +779,9 @@
     "license": "unknown",
     "licenseSimple": "unknown",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
@@ -926,10 +944,12 @@
     "description": "The seasonal adjustment software officially recommended for the European Statistical System.",
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "R packages",
@@ -1062,10 +1082,13 @@
     "description": "Tool to create safe micro-data files. See also the [casc page](http://research.cbs.nl/casc/).",
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Java",
+      "AGS Script"
+    ]
   },
   {
     "type": "Java C++ Fortran and Delphi application",
@@ -1074,10 +1097,12 @@
     "description": "Tool to protect statistical tables. See also the [casc page](http://research.cbs.nl/casc/).",
     "gsbpm_name": "Statistical disclosure control",
     "gsbpm_number": "6.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "AGS Script"
+    ]
   },
   {
     "type": "R package",
@@ -1240,10 +1265,13 @@
     "description": "Data Dissemination Management System for creating and publishing Statistics over the Web with focus on Accessibility and LOD. By [CSO](https://www.cso.ie/).",
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "C#",
+      "JavaScript"
+    ]
   },
   {
     "type": "C# VB.NET ASP.NET",
@@ -1252,10 +1280,13 @@
     "description": "Web application for dissemination of statistical tables in [Px format](https://www.scb.se/en/services/statistical-programs-for-px-files/px-file-format/) or SQL data in the [Nordic Data Model](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/px-web-med-sql-databas/).",
     "gsbpm_name": "Statistical Dissemination",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "Apache-2.0",
+    "licenseSimple": "Apache",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "C#",
+      "Visual Basic .NET"
+    ]
   },
   {
     "type": "Node.js and other",
@@ -1361,10 +1392,12 @@
     "description": "Javascript library for gridded statistics maps, on the web. By Eurostat.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "JavaScript"
+    ]
   },
   {
     "type": "JavaScript",
@@ -1373,10 +1406,12 @@
     "description": "Javascript library for customizable thematic maps for global and regional statistical data. By Eurostat.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "JavaScript"
+    ]
   },
   {
     "type": "R package",
@@ -1402,7 +1437,10 @@
     "license": "unknown",
     "licenseSimple": "unknown",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Shell",
+      "R"
+    ]
   },
   {
     "type": "GeoJSON/TopoJSON",
@@ -1411,10 +1449,12 @@
     "description": "Simplified geometries for web maps of European NUTS regions. By Eurostat.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "R package",
@@ -1454,7 +1494,9 @@
     "license": "unknown",
     "licenseSimple": "unknown",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "JavaScript"
+    ]
   },
   {
     "type": "JavaScript",
@@ -1463,10 +1505,12 @@
     "description": "Javascript library for data visualization that encapsulates complexity supporting chart types such as bar, rank, pie, time series bar/line, population pyramid, scatterplots and Choropleth maps. By Idescat.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "NOASSERTION",
+    "licenseSimple": "NOASSERTION",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "JavaScript"
+    ]
   },
   {
     "type": "R package",
@@ -1489,10 +1533,12 @@
     "description": "Open-source web application for SDMX data and metadata rendering based on Dash.",
     "gsbpm_name": "Visualisation",
     "gsbpm_number": "7.2",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "Apache-2.0",
+    "licenseSimple": "Apache",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "R package",
@@ -1551,10 +1597,12 @@
     "access_to": [
       "all SDMX"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "Apache-2.0",
+    "licenseSimple": "Apache",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "Ecosystem",
@@ -1624,8 +1672,8 @@
     "access_to": [
       "all JSON-STAT"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub",
     "languages": []
   },

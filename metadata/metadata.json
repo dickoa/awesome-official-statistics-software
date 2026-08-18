@@ -1675,7 +1675,9 @@
     "license": "MIT",
     "licenseSimple": "MIT",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "R package",
@@ -1863,10 +1865,12 @@
       "endpoint_hiding",
       "catalogue_retrieval"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3.0",
+    "licenseSimple": "GPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "Node.js",
@@ -1882,7 +1886,9 @@
     "license": "unknown",
     "licenseSimple": "unknown",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "CoffeeScript"
+    ]
   },
   {
     "type": "Python",
@@ -1895,10 +1901,12 @@
     "access_to": [
       "CBS"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Python"
+    ]
   },
   {
     "type": "R package",
@@ -1957,10 +1965,12 @@
     "access_to": [
       "Sweden"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "MIT",
+    "licenseSimple": "MIT",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Jupyter Notebook"
+    ]
   },
   {
     "type": "R package",
@@ -2147,10 +2157,12 @@
     "access_to": [
       "all SDMX"
     ],
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL-1.2",
+    "licenseSimple": "EUPL",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "Java"
+    ]
   },
   {
     "type": "Node.js",
@@ -2370,7 +2382,9 @@
     "license": "unknown",
     "licenseSimple": "unknown",
     "platform": "GitHub",
-    "languages": []
+    "languages": [
+      "R"
+    ]
   },
   {
     "type": "R package",
